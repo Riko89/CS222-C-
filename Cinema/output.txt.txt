@@ -1,0 +1,45 @@
+Printing All Show Times:
+
+Movie: Avatar:
+Release Date:  12/18/2009
+Rating: 1
+Show Times: 730,   1230,   1400,   1700,   1730,   1800,   1900,   2100,
+
+Movie: Indiana Jones: Raiders of The Lost Ark:
+Release Date:  6/12/1981
+Rating: 0
+Show Times: 1030,   1230,   1400,   1500,
+
+Movie: Kill Bill Volume : 2:
+Release Date:  4/16/2004
+Rating: 0
+Show Times: 830,   1200,   1300,   1530,
+
+Movie: Planet of the Apes:
+Release Date:  7/6/2010
+Rating: 0
+Show Times: 930,   1100,   1530,   2100,
+
+Movie: Star Wars: A New Hope:
+Release Date:  5/25/1977
+Rating: 0
+Show Times: 1000,   1100,   1830,   2130,
+
+All available showings for your movie at times you are available:
+Showing at : 1700
+Avatar:
+Release Date:  12/18/2009
+Rating: 1
+Showing at : 1730
+Avatar:
+Release Date:  12/18/2009
+Rating: 1
+Showing at : 1800
+Avatar:
+Release Date:  12/18/2009
+Rating: 1
+Showing at : 1900
+Avatar:
+Release Date:  12/18/2009
+Rating: 1
+Press any key to continue . . .

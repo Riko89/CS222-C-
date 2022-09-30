@@ -1,0 +1,19 @@
+Enter the number you wish to see in the Fibonacci sequence:
+9
+Output: 21
+Enter a number equal to or lower than the output:
+13
+13 is a Fibonacci number.
+Press any key to continue . . .
+
+Enter the number you wish to see in the Fibonacci sequence:
+7
+Output: 8
+Enter a number equal to or lower than the output:
+6
+6 is not a Fibonacci number.
+Press any key to continue . . .
+
+
+
+

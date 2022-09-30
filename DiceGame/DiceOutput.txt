@@ -1,0 +1,50 @@
+Input your guess for the sum of 3 dice rolls, input -1 to quit
+
+User Guess: 12
+Pc guess: 4
+roll... 2    roll... 2    roll... 4
+Sum: 8
+User Deviation: 4
+Pc Deviation: 4
+Computer wins
+Score: User 0 Pc 1
+
+User Guess: 10
+Pc guess: 17
+roll... 4    roll... 1    roll... 5
+Sum: 10
+User Deviation: 0
+Pc Deviation: 7
+User wins
+Score: User 1 Pc 1
+
+User Guess: 11
+Pc guess: 14
+roll... 2    roll... 5    roll... 5
+Sum: 12
+User Deviation: 1
+Pc Deviation: 2
+User wins
+Score: User 2 Pc 1
+
+User Guess: 10
+Pc guess: 5
+roll... 1    roll... 3    roll... 4
+Sum: 8
+Computer Cheats!
+User Deviation: 1000
+Pc Deviation: 3
+Computer wins
+Score: User 2 Pc 2
+
+User Guess: 15
+Pc guess: 7
+roll... 6    roll... 2    roll... 4
+Sum: 12
+User Deviation: 3
+Pc Deviation: 5
+User wins
+Score: User 3 Pc 2
+
+User Guess: -1
+Press any key to continue . . .
